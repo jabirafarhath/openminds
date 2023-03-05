@@ -1,4 +1,4 @@
-import React from "react";
+import { React } from "react";
 import { auth, provider } from "../../config/firebase-config";
 import { signInWithPopup } from "firebase/auth";
 import { FcGoogle } from "react-icons/fc";
