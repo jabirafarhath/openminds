@@ -1,0 +1,62 @@
+.settings-page {
+    display: flex;
+    width: 60%;
+    margin: auto;
+    flex-direction: column;
+    align-items: right;
+    background-color: beige;
+    padding: 2rem;
+}
+
+.input-label {
+    margin: 1rem .5rem;
+    display: flex;
+}
+
+.input-label label {
+    width: 15%;
+}
+
+.input-label input,
+textarea {
+    padding: .5rem;
+    width: 85%;
+    border: none;
+    border-bottom: .1rem solid gray;
+}
+
+.emoji-box {
+
+    display: flex;
+    width: 85%;
+}
+
+.emoji {
+    border: .1rem solid rgb(229, 229, 132);
+    border-radius: 10%;
+    margin: 0 .2rem 0 0;
+    padding: .5rem;
+    font-size: larger;
+
+}
+
+.btn-update {
+    text-align: center;
+    border: 2px solid dodgerblue;
+    background-color: dodgerblue;
+    color: white;
+    padding: .5rem;
+    border-radius: 10%;
+    margin: 0 .5rem;
+    font-weight: bold;
+}
+
+.btn-cancel {
+    text-align: center;
+    padding: .5rem;
+    border: 2px solid white;
+    background-color: white;
+    color: dodgerblue;
+    border-radius: 10%;
+    font-weight: bold;
+}
