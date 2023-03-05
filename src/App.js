@@ -33,7 +33,7 @@ function App() {
             <Route path="/" element={<Login setIsAuth={setIsAuth} />} />
             <Route path="/home" element={
               <div className="app_page">
-                <Navbar signUserOut={signUserOut} />
+                <Navbar signUserOut={signUserOut}/>
                 <Home />
                 <Right />
               </div>
