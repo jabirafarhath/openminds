@@ -11,9 +11,9 @@ OpenMinds is a free web application that provides a safe and supportive environm
   - **Links to production or demo instances**: loom link
 
 
-**Screenshot**: dashboard ss
+![**Screenshot**:](https://github.com/ShimilSAbraham/openminds/blob/main/src/assets/images/ss.jpeg)
 
-![](https://raw.githubusercontent.com/ShimilSAbraham/openminds/blob/main/src/assets/images/ss.png)
+[Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7)
 
 ## Timeline
 
