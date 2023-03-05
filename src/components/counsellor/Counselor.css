@@ -1,0 +1,46 @@
+.counselor-card{
+    background-color: antiquewhite;
+    padding:  1rem;
+    width: 20rem;
+    border-radius: 1rem;
+
+}
+
+.counselor-card .name{
+    display: flex;
+    align-items: end;
+}
+
+.counselor-card img{
+    border-radius: 50%;
+    width: 2rem;
+    margin-right: .5rem;
+}
+
+.counselor-card h3{
+margin: 1px;
+}
+
+.counselor-card .age{
+    font-size: x-small;
+    margin-left: 2.5rem;
+}
+
+.contact-box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5rem;
+}
+
+.contact-box .counselor-post{
+    font-size: 15px;
+    margin-left: 2.5rem;
+
+}
+.contact-box .contact{
+    display: flex;
+
+}
+.contact-box div{
+    margin-right: .5rem;
+}

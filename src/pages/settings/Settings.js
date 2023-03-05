@@ -6,15 +6,15 @@ function Settings() {
         <h1>Account Settings</h1>
         <div className="input-label">
           <label htmlFor="firstName">First Name: </label>
-          <input type="text" name="firstName" placeholder="Jabira"/>
+          <input type="text" name="firstName" placeholder="Shimil"/>
         </div>
         <div className="input-label">
           <label htmlFor="lastName">Last Name: </label>
-          <input type="text" name="lastName" placeholder="Farhath"/>
+          <input type="text" name="lastName" placeholder="Abraham"/>
         </div>
         <div className="input-label">
           <label htmlFor="username">Username: </label>
-          <input type="text" name="username" placeholder="jabirafarhath"/>
+          <input type="text" name="username" placeholder="shimilabraham"/>
         </div>
         <div className="input-label">
           <label htmlFor="">Set Status: </label>

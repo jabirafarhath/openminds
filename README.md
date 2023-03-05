@@ -1,10 +1,47 @@
-# Getting Started with Create React App
+# OpenMinds
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Description**:  
 
-## Available Scripts
+OpenMinds is a free web application that provides a safe and supportive environment for individuals to connect and explore ways to improve their mental health. Our features include open forums, stress relief activities, and access to licensed therapists and counselors. Our goal is to promote a supportive and inclusive community that helps individuals improve their mental wellbeing.
 
-In the project directory, you can run:
+
+
+  - **Technology stack**: React.js, Firebase
+  - **Status**:  Implemented Frontend for the project
+  - **Links to production or demo instances**: loom link
+
+
+**Screenshot**: dashboard ss
+
+![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
+
+## Timeline
+
+1. What was the initial stage of the project?
+- The initial stage of building the project from scratch involved defining project goals and requirements, selecting appropriate technologies, and building the project's architecture.
+2. What stage is it now?
+- The project is currently in the development stage where the UI of various pages like dashboard, forum, advice pages etc. are completed. In addition to that, a stress buster game has also implemented.
+3. How did we get here?
+- Initially we created a react app, then each person developed various pages and finally we compiled it together.
+4. What is working/not working?
+<br>
+**Working**
+- User Authentication: Each user can login using their google credentials and can access their dashboards. 
+- Stress buster Game: User can play the stress buster game from their dashboard.
+<br>
+
+## Dependencies
+
+- **Node.js**:Node.js is an open-source, cross-platform JavaScript runtime environment. Node.js version >14.0 is required.
+
+## Installation
+
+Instructions for setting up and running the project on a local machine.
+<br>Clone the repository to your local machine. Make your node is installed in your system.
+
+### `npm install`
+
+This will install all the required dependencies for the project listed inside package.json file.
 
 ### `npm start`
 
@@ -12,59 +49,26 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+Below video shows how the app works
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+----
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Apache License 2.0
+- MIT License
+- GNU General Public License v3.0
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+----
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits and references
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Pinterests for UI
+2. Dribble for UI inspiration
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

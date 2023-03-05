@@ -6,11 +6,11 @@ import Home from "./pages/home/Home";
 import Navbar from "./components/Navbar/Navbar";
 import Right from "./components/Right/Right";
 import Login from "./pages/login/Login";
-import Relax from "./pages/relax/Relax";
 import Forum from "./pages/forum/Forum";
 import Advice from "./pages/advice/Advice";
 import Settings from "./pages/settings/Settings";
 import { signOut } from "firebase/auth";
+import Stage from './pages/game/stage';
 
 function App() {
   const [isAuth, setIsAuth] = useState(localStorage.getItem("isAuth"));
@@ -47,7 +47,7 @@ function App() {
             <Route path="/relax" element={
               <div className="app_page">
                 <Navbar signUserOut={signUserOut} />
-                <Relax />
+                <Stage />
               </div>
             } />
             <Route path="/settings" element={

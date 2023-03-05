@@ -1,0 +1,18 @@
+.advice_page{
+    flex: 1;
+    /* width: calc(100vh - 300px); */
+}
+h1{
+    margin:2rem 1rem;
+
+}
+.advice_cards{
+    display:flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    margin:  0 1rem;
+}
+
+.advice_cards .card-counselor{
+    margin: .5rem;
+}
