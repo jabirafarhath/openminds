@@ -8,7 +8,7 @@
   
 }
 .post-inner{
-  background-color: rgb(114, 171, 228);
+  background-color: var(--light-green);
   padding: 0.3rem;
   border-radius: 0.5rem;
 }

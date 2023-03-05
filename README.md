@@ -13,7 +13,7 @@ OpenMinds is a free web application that provides a safe and supportive environm
 
 **Screenshot**: dashboard ss
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
+![](https://raw.githubusercontent.com/ShimilSAbraham/openminds/blob/main/src/assets/images/ss.png)
 
 ## Timeline
 

@@ -1,5 +1,5 @@
 .counselor-card{
-    background-color: antiquewhite;
+    background-color: var(--light-green);
     padding:  1rem;
     width: 20rem;
     border-radius: 1rem;

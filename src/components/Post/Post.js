@@ -5,8 +5,8 @@ function Post() {
     <div className="post-div">
       <div className="post-inner">
         <div className="user-detail">
-          <img src="https://lh3.googleusercontent.com/a/AEdFTp5XR0A5ukfvNo28UmoRvh2UV62u9l5L_GMoKx4=s96-c" alt="" />
-          <h3>John</h3>
+          <img src="https://lh3.googleusercontent.com/a/AGNmyxbjeCh_gQ7JuJOuonZCboA7Ub6tvQb___Oy2xLfpw=s96-c" alt="" />
+          <h3>Shimil</h3>
         </div>
         <div className="post-content">
           <p>Post goes here..</p>

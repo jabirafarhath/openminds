@@ -6,7 +6,7 @@ function Counselor() {
       <div className="counselor-card">
         <div className="name">
           <img
-            src="https://lh3.googleusercontent.com/a/AGNmyxaAI4x2fqgqNp85S1pBaLWgb3cE36DTBifAWOO0UQ=s96-c"
+            src="https://lh3.googleusercontent.com/a/AGNmyxbjeCh_gQ7JuJOuonZCboA7Ub6tvQb___Oy2xLfpw=s96-c"
             alt=""
           />
           <h3>John Doe</h3>
