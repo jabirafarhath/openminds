@@ -1,0 +1,26 @@
+.input-div{
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-text{
+    padding: .5rem;
+    width: 80%;
+    margin: 0 .2rem;
+}
+
+.btn{
+    width: 20%;
+    background-color: dodgerblue;
+    border-radius: 10%;
+    border:none;
+    
+}
+
+
+
+
