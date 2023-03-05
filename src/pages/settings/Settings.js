@@ -3,7 +3,7 @@ import "./Settings.css";
 function Settings() {
   return (
     <div>
-      <div className="settings-page">
+      <div className="settings_page">
         <h1>Account Settings</h1>
         <div className="input-label">
           <label htmlFor="firstName">First Name: </label>
@@ -40,7 +40,6 @@ function Settings() {
             </div>
         </div>
       </div>
-    </div>
   );
 }
 

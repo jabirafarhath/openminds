@@ -3,7 +3,7 @@ import Post from "../post/Post";
 
 function Forum() {
   return (
-    <div className="forum-div">
+    <div className="forum_page">
       <div className="input-div">
         <textarea
           type="text"
@@ -13,7 +13,6 @@ function Forum() {
         <button className="btn">Post</button>
       </div>
       <Post/>
-    </div>
   );
 }
 

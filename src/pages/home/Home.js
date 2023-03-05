@@ -24,7 +24,7 @@ function Home({ isAuth }) {
 
   return (
     <div className="home_page">
-      {auth?.currentUser.email}
+      {localStorage.getItem("isAuth") ? auth.currentUser.email : "Home"}
     </div>
   );
 }
