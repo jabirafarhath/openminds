@@ -2,7 +2,6 @@ import "./Settings.css";
 
 function Settings() {
   return (
-    <div>
       <div className="settings_page">
         <h1>Account Settings</h1>
         <div className="input-label">

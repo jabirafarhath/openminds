@@ -13,6 +13,7 @@ function Forum() {
         <button className="btn">Post</button>
       </div>
       <Post/>
+    </div>
   );
 }
 

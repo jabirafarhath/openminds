@@ -4,51 +4,5 @@
     gap: 20px;
     flex-direction: column;
     flex: 1;
-  }
-  
-  .post {
-    position: relative;
-    width: 400px;
-    height: 250px;
-    background: dodgerblue;
-    padding: 20px;
-    border-radius: 15px;
-  
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    gap: 1rem;
-  }
-  
-  .trash_icon{
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
-    font-size: 1.3rem;
-    cursor: pointer;
-    color: rgb(255, 0, 0);
-  
-  }
-  
-  .post_title {
-    font-weight: 600;
-    font-size: 1.2rem;
-    color: white;
-  }
-  
-  .post_postText {
-    font-size: 0.9rem;
-    max-height: 200px;
-    overflow: hidden;
-    overflow-y: auto;
-    word-wrap: break-word;
-    padding-right: 10px;
-  }
-  
-  .post_author {
-    color: white;
-    font-weight: 600;
-    font-size: 0.8rem;
-    align-self: flex-end;
-  }
+} 
   
