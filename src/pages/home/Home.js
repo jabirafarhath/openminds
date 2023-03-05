@@ -3,6 +3,8 @@
 import { React, useEffect } from "react";
 import { db, auth } from "../../config/firebase-config";
 import "./Home.css";
+import Chart from "../../components/Chart/Chart";
+import BottomIllus from "../../assets/images/bottom.png";
 
 function Home({ isAuth }) {
   // const [postLists, setPostLists] = useState([]);
@@ -62,6 +64,13 @@ function Home({ isAuth }) {
 
       </div>
       <div className="home_page_bottom">
+        <div className="home_page_bottom_img">
+          <div className="home_page_bottom_text">User Activity</div>
+          <img src={BottomIllus} alt=""/>
+        </div>
+        <div className="home_page_bottom_chart">
+          <Chart />
+        </div>
 
       </div>
     </div>
