@@ -57,7 +57,6 @@ Below video shows how the app works.
 
 [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7)
 
----
 
 ## License
 
