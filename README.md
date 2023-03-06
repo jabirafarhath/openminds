@@ -53,6 +53,8 @@ You may also see any lint errors in the console.
 ## Usage
 
 Below video shows how the app works.
+<br>
+
 [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7)
 
 ---
