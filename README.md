@@ -1,33 +1,32 @@
 # OpenMinds
 
-**Description**:  
+**Description**:
 
 OpenMinds is a free web application that provides a safe and supportive environment for individuals to connect and explore ways to improve their mental health. Our features include open forums, stress relief activities, and access to licensed therapists and counselors. Our goal is to promote a supportive and inclusive community that helps individuals improve their mental wellbeing.
 
-
-
-  - **Technology stack**: React.js, Firebase
-  - **Status**:  Implemented Frontend for the project
-  - **Links to production or demo instances**: loom link
-
+- **Technology stack**: React.js, Firebase
+- **Status**: Implemented Frontend for the project
+- **Links to production or demo instances**: loom link
 
 ![**Screenshot**:](https://github.com/ShimilSAbraham/openminds/blob/main/src/assets/images/ss.jpeg)
-
-
 
 ## Timeline
 
 1. What was the initial stage of the project?
+
 - The initial stage of building the project from scratch involved defining project goals and requirements, selecting appropriate technologies, and building the project's architecture.
+
 2. What stage is it now?
+
 - The project is currently in the development stage where the UI of various pages like dashboard, forum, advice pages etc. are completed. In addition to that, a stress buster game has also implemented.
+
 3. How did we get here?
+
 - Initially we created a react app, then each person developed various pages and finally we compiled it together.
+
 4. What is working/not working?
 
-  **Working**
-
-- User Authentication: Each user can login using their google credentials and can access their dashboards. 
+- User Authentication: Each user can login using their google credentials and can access their dashboards.
 - Stress buster Game: User can play the stress buster game from their dashboard.
 
 ## Dependencies
@@ -49,14 +48,13 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console. 
-
+You may also see any lint errors in the console.
 
 ## Usage
 
 This [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7) shows how the app works.
 
-----
+---
 
 ## License
 
@@ -64,11 +62,9 @@ This [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7) s
 - MIT License
 - GNU General Public License v3.0
 
-
-----
+---
 
 ## Credits and references
 
 1. Pinterests for UI
 2. Dribble for UI inspiration
-
