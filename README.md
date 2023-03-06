@@ -13,7 +13,7 @@ OpenMinds is a free web application that provides a safe and supportive environm
 
 ![**Screenshot**:](https://github.com/ShimilSAbraham/openminds/blob/main/src/assets/images/ss.jpeg)
 
-[Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7)
+
 
 ## Timeline
 
@@ -24,15 +24,15 @@ OpenMinds is a free web application that provides a safe and supportive environm
 3. How did we get here?
 - Initially we created a react app, then each person developed various pages and finally we compiled it together.
 4. What is working/not working?
-<br>
-**Working**
+
+  **Working**
+
 - User Authentication: Each user can login using their google credentials and can access their dashboards. 
 - Stress buster Game: User can play the stress buster game from their dashboard.
-<br>
 
 ## Dependencies
 
-- **Node.js**:Node.js is an open-source, cross-platform JavaScript runtime environment. Node.js version >14.0 is required.
+- **Node.js**: Node.js is an open-source, cross-platform JavaScript runtime environment. Node.js version >14.0 is required.
 
 ## Installation
 
@@ -54,7 +54,7 @@ You may also see any lint errors in the console.
 
 ## Usage
 
-Below video shows how the app works
+This [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7) shows how the app works.
 
 ----
 
