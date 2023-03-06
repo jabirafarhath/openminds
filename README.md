@@ -52,7 +52,8 @@ You may also see any lint errors in the console.
 
 ## Usage
 
-This [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7) shows how the app works.
+Below video shows how the app works.
+[Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7)
 
 ---
 
@@ -61,8 +62,6 @@ This [Video Link](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7) s
 - Apache License 2.0
 - MIT License
 - GNU General Public License v3.0
-
----
 
 ## Credits and references
 
