@@ -6,7 +6,9 @@ OpenMinds is a free web application that provides a safe and supportive environm
 
 - **Technology stack**: React.js, Firebase
 - **Status**: Implemented Frontend for the project
-- **Links to production or demo instances**: loom link
+- **Links to production or demo instances**:  
+[Demo video](https://www.loom.com/share/6b0be7274ab64f19804d2da07a5877c7)
+
 
 ![**Screenshot**:](https://github.com/ShimilSAbraham/openminds/blob/main/src/assets/images/ss.jpeg)
 
